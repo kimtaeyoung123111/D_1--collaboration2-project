@@ -18,7 +18,7 @@
 
 ### 1-2. 플로우 차트 (Flow Chart)
 <p align="center">
-  <img src="./src/images/flow_chart.png" alt="플로우 차트 이미지" width="300" height="300">
+  <img src="./src/images/flowchart_drawio.svg" alt="플로우 차트 이미지" width="300" height="300">
 </p>
 
 * *설명: [음성 주문(STT) ➡️ 박스 탐색 ➡️ 상품 탐색(ROI & 2-Step 검증) ➡️ 적응형 파지 ➡️ 충돌 회피 적재 ➡️ 박스 정렬(Shaking) ➡️ 교체] 로 이어지는 무한 루프 자동화 프로세스입니다.*
